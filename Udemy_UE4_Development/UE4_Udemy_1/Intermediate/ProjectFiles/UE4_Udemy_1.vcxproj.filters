@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\UE4_Udemy_1.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{21E7FC9B-D153-4B0D-8FA7-807435186474}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\UE4_Udemy_1.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\UE4_Udemy_1Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{BA3E0F30-39A2-41DC-8B58-5A547F7C4773}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\UE4_Udemy_1">
+			<UniqueIdentifier>{242BB414-BDA4-41F2-9F08-23DE67B73B66}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\UE4_Udemy_1\UE4_Udemy_1.Build.cs">
+			<Filter>Source\UE4_Udemy_1</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\UE4_Udemy_1\UE4_Udemy_1.cpp">
+			<Filter>Source\UE4_Udemy_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UE4_Udemy_1\UE4_Udemy_1.h">
+			<Filter>Source\UE4_Udemy_1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\UE4_Udemy_1\UE4_Udemy_1GameModeBase.cpp">
+			<Filter>Source\UE4_Udemy_1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\UE4_Udemy_1\UE4_Udemy_1GameModeBase.h">
+			<Filter>Source\UE4_Udemy_1</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
