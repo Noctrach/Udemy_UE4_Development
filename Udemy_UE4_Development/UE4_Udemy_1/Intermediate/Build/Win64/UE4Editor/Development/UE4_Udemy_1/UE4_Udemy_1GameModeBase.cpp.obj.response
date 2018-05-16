@@ -24,9 +24,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I "C:\Users\Peter\Documents\Visual Studio 2017\Projects\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Source"
-/I "C:\Users\Peter\Documents\Visual Studio 2017\Projects\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Intermediate\Build\Win64\UE4Editor\Inc\UE4_Udemy_1"
-/I "C:\Users\Peter\Documents\Visual Studio 2017\Projects\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Source\UE4_Udemy_1"
+/I D:\Documents\GitHub\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Source
+/I D:\Documents\GitHub\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Intermediate\Build\Win64\UE4Editor\Inc\UE4_Udemy_1
+/I D:\Documents\GitHub\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Source\UE4_Udemy_1
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -364,9 +364,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Peter\Documents\Visual Studio 2017\Projects\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Source\UE4_Udemy_1\UE4_Udemy_1GameModeBase.cpp"
-/FI"C:\Users\Peter\Documents\Visual Studio 2017\Projects\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Intermediate\Build\Win64\UE4Editor\Development\UE4_Udemy_1\Definitions.UE4_Udemy_1.h"
-/Fo"C:\Users\Peter\Documents\Visual Studio 2017\Projects\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Intermediate\Build\Win64\UE4Editor\Development\UE4_Udemy_1\UE4_Udemy_1GameModeBase.cpp.obj"
+"D:\Documents\GitHub\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Source\UE4_Udemy_1\UE4_Udemy_1GameModeBase.cpp"
+/FI"D:\Documents\GitHub\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Intermediate\Build\Win64\UE4Editor\Development\UE4_Udemy_1\Definitions.UE4_Udemy_1.h"
+/Fo"D:\Documents\GitHub\Udemy_UE4_Development\Udemy_UE4_Development\UE4_Udemy_1\Intermediate\Build\Win64\UE4Editor\Development\UE4_Udemy_1\UE4_Udemy_1GameModeBase.cpp.obj"
 /TP
 /GR-
 /W4
