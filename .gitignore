@@ -1,8 +1,8 @@
-*/Binaries
-*/Build
-*/DerivedDataCache
-**/Intermediate/*
-*/Saved
-*.db
+**/Binaries
+**/Build
+**/DerivedDataCache
+**/Intermediate
+**/Saved
+**.db
 
-/Building_Escape/Content/StarterContent
+*/Building_Escape/Content/StarterContent
